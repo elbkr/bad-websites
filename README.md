@@ -1,4 +1,4 @@
-# bad websites
+# Bad websites
 A collection of bad URLs to use for moderation purposes
 
 # Includes: 
@@ -13,3 +13,12 @@ A collection of bad URLs to use for moderation purposes
 2. fork this repository
 3. make your changes
 4. open a pull request
+
+
+## Contributors
+
+Thanks To contributers
+
+<a href="https://github.com/elbkr/bad-websites/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=elbkr/bad-websites" />
+</a>
