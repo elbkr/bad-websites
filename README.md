@@ -4,8 +4,9 @@ A collection of bad URLs to use for moderation purposes
 # Includes: 
 - P*rn websites
 - Pirate websites
-- Scam links (Usually from steam)
+- Scam links (Steam, money scams, etc...)
 - Gambling websites
+- Virus websites
 - Much more...
 
 ## Want to add another url here?
@@ -19,6 +20,6 @@ A collection of bad URLs to use for moderation purposes
 
 Thanks To contributors
 
-<a href="https://github.com/techguy16/bad-websites/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=techguy16/bad-websites" />
+<a href="https://github.com/elbkr/bad-websites/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=elbkr/bad-websites" />
 </a>
