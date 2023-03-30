@@ -4,7 +4,7 @@ A collection of bad URLs to use for moderation purposes
 # Includes: 
 - P*rn websites
 - Pirate websites
-- Scam links (Steam, money scams, etc...)
+- Scam links (Usually from steam)
 - Gambling websites
 - Virus websites
 - Much more...
