@@ -6,6 +6,7 @@ A collection of bad URLs to use for moderation purposes
 - Pirate websites
 - Scam links (Usually from steam)
 - Gambling websites
+- Virus websites
 - Much more...
 
 ## Want to add another url here?
